@@ -3,9 +3,9 @@
 
  Directory of C:\Informatika\GIT\Selen183\develop
 
-16. 11. 2020  17:14    <DIR>          .
-16. 11. 2020  17:14    <DIR>          ..
-16. 11. 2020  17:14                 0 d1.txt
+16. 11. 2020  17:26    <DIR>          .
+16. 11. 2020  17:26    <DIR>          ..
+16. 11. 2020  17:26                 0 d1.txt
 16. 11. 2020  17:10    <DIR>          Testing
                1 File(s)              0 bytes
-               3 Dir(s)  256ÿ359ÿ923ÿ712 bytes free
+               3 Dir(s)  256ÿ357ÿ715ÿ968 bytes free
