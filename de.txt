@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 70FD-81F9
+
+ Directory of C:\Informatika\GIT\Selen183\develop
+
+16. 11. 2020  17:35    <DIR>          .
+16. 11. 2020  17:35    <DIR>          ..
+16. 11. 2020  17:34               401 d.txt
+16. 11. 2020  17:35                 0 de.txt
+16. 11. 2020  17:10    <DIR>          Testing
+               2 File(s)            401 bytes
+               3 Dir(s)  256ÿ354ÿ254ÿ848 bytes free
